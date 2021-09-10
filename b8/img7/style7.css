@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(245, 235, 235);
+}
+.header{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+    height: 100px;
+}
+#p1{
+    text-align: center;
+    margin: 10px 50px;
+}
+.img{
+    background-color: turquoise;
+    color: white;
+    width: 200px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding: 90px 90px;
+}
+.title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.par{
+    color: gray;
+    
+}
+.element{
+    width: 380px;
+    margin-left: 50px;
+    display: inline;
+    float: left;
+}
+.content{
+    background-color: white;
+    margin-top: -20px;
+    padding: 20px;
+}

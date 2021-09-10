@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(248, 246, 246, 0.897);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.header{
+    text-align: center;
+}
+#left{
+    background-color: white;
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+}
+#right{
+    width: 50%;
+    margin-left: 20px;
+}
+.content{
+    display: inline;
+    float: left;
+}

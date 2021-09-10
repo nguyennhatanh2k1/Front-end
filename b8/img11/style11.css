@@ -1,0 +1,44 @@
+.content{
+    margin-left: 50px;
+}
+#btn{
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input{
+    display: inline;
+}
+.field{
+    width: 250px;
+    height: 50px;
+    padding-left: 10px;
+    display:flexbox;
+    margin-bottom: 20px;
+}
+#subject{
+    width: 600px;
+    height: 50px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+#textarea{
+    width: 600px;
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+#note{
+    float: right;
+}
+#foot{
+    width: 600px;
+}
+#main{
+    width: 600px;
+}
+#f2{
+    float: right;
+}
+#header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

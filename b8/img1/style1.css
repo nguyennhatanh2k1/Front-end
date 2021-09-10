@@ -1,0 +1,34 @@
+#left{
+    width: 288px;height: 512px;
+}
+#right{
+    width: 60%;
+    display: inline;
+    float: left;
+    margin-left: 50px;
+}
+.col{
+    float: left;
+    width: 200px;
+    height: 250px;
+    margin-left: 50px;
+}
+#btn1{
+    background-color: turquoise;
+    color: white;
+    padding: 10px 20px;
+}
+.content{
+    display: inline;
+    float:left;
+}
+i{
+    color:rgb(32, 208, 221);
+}
+img{
+    width: 288px;
+    height: 512px;
+}
+h2{
+    width: 60%;
+}

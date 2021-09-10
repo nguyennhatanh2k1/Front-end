@@ -1,0 +1,15 @@
+h1{
+    margin-left: 50px;
+}
+.title{
+    font-weight: bold;
+}
+span{
+    color: rgb(12, 194, 12);
+}
+.element{
+    background-color: rgb(240, 239, 239);
+    width: 60%;
+    margin-left: 70px;
+    padding: 20px;
+}

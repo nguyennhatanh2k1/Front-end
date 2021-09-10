@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(77, 114, 145);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#left{
+    width: 30%;
+}
+.content{
+    display: inline;
+    float: left;
+}
+#left, #center, #right{
+    width: 30%;
+}
+#par{
+    width: 300px;
+}
+#title{
+    font-size: 20px;
+}
+#fb{
+    padding: 20px 25px;
+    background-color: rgb(0, 132, 255);
+}
+#gg{
+    padding: 20px 25px;
+    background-color: rgb(233, 93, 83);
+}
+#in{
+    padding: 20px 25px;
+    background-color: rgb(64, 73, 148);
+}
+#tw{
+    padding: 20px 25px;
+    background-color: rgb(0, 132, 255);
+    border: black solid 1px;
+}
+
+#footer{
+    text-align: center;
+    height: 200px;
+    float: left;
+    margin-left: 35%;
+}

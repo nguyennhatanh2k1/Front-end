@@ -1,0 +1,40 @@
+  
+#paragrapy{
+    width: 1500px;
+    height: 500px;
+    background-color: gainsboro;
+}
+#header{
+
+    width: 1500px;
+    height: 200px;
+    background-color: lightskyblue;
+}
+.content{
+ color: white;
+ padding-top: 50px;
+ padding-left: 70px;
+}
+.nav{
+    float: left;
+    width: 400px;
+    height: 300px;
+    margin-left: 70px;
+    margin-top: -50px;
+    border-style: solid;
+    border-color: rgb(185, 174, 174);
+}
+li{
+    list-style-type: none;
+}
+.icon1{
+    font-size: 40px;
+}
+.icon2{
+    font-size: 30px;
+    font-weight:bold ;
+    padding-top: 10px;
+}
+.nav{
+    background-color: white;
+}

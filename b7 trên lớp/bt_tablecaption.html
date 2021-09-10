@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+          font-family: arial, sans-serif;
+          width: 100%;
+          border: 1px solid black;
+        }
+        
+        td, th {
+          
+          text-align: left;
+          padding: 8px;
+          border: 1px solid black;
+        }
+        </style>
+</head>
+<body>
+    <p style="text-align: center; font-size: 200%;">This is table caption</p>
+    <table>
+        <tr>
+          <th>Collumn 1</th>
+          <th >Collumn 2</th>
+          <th>Collumn 3</th>
+          <th>Collumn 4</th>
+          <th>Collumn 5</th>
+        </tr>
+        <tr>
+          <td>Data 1</td>
+          <td rowspan ="3" colspan="1"> Data 2</td>
+          <td>Data 3</td>
+          <td>Data 4</td>
+          <td>Data 5</td>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 3</td>
+            <td colspan = "2" >Data 4 and 5</td>
+        </tr>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 3</td>
+            <td>Data 4</td>
+            <td>Data 5</td>
+        </tr>
+      </table>
+</body>
+</html>

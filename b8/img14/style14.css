@@ -1,0 +1,25 @@
+.nav{
+    width: 1000px;
+    height: 150px;
+    border-bottom: firebrick dashed ;
+    margin-left: 20px;
+}
+
+.icon{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.box3{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+    border-radius: 5px;
+    }
+.nav1{
+    width: 700px;
+    height: 100px;
+    float: left;
+    padding-left: 20px;
+}
